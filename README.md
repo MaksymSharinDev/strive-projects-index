@@ -1,6 +1,6 @@
 # strive-projects-index
 
-- 1st week
+- 1st module
   - [Day 4](https://github.com/MaksymSharinDev/strive-apr21-M1D4)
   - [Day 5](https://github.com/MaksymSharinDev/strive-apr21-M1D5)
   - [Day 6](https://github.com/MaksymSharinDev/strive-apr21-M1D6)
