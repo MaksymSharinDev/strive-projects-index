@@ -1,5 +1,7 @@
 # strive-projects-index
 
+#Gonna Update it at the end of the program cutting off irrelevant or messy repositories
+
 - 1st module
   - [Day 4](https://github.com/MaksymSharinDev/strive-apr21-M1D4)
   - [Day 5](https://github.com/MaksymSharinDev/strive-apr21-M1D5)
