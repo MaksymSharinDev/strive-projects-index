@@ -1,5 +1,10 @@
 # strive-projects-index
 
+| Preview | Description | Perks                                                                       | Repository Link | State |
+|---------|-------------|-----------------------------------------------------------------------------|-----------------|-------|
+|         |             | - refactored on 07-08-21 <br/> - using ink ( Terminal React-like Ui ) <br/> |                 |       |
+
+
 # Gonna Update it at the end of the program cutting off irrelevant or messy repositories
 
 - 1st module
